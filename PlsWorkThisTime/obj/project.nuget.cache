@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "szxwcPcdPAEvGYiYukeNxbdwWfg+Z9OIlOyyxeGbCAqPBuX02AktC6fLr3MX+0XeTNFaC7baWD2acCwhw9V2vA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kristupas.lunskas\\source\\repos\\PlsWorkThisTime\\PlsWorkThisTime\\PlsWorkThisTime.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kristupas.lunskas\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
